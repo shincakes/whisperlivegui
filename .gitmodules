@@ -1,0 +1,12 @@
+[submodule "WhisperLive"]
+	path = WhisperLive
+	url = https://github.com/shincakes/raspberry-whisper-implementation.git
+[submodule "faster-whisper"]
+	path = faster-whisper
+	url = https://github.com/shincakes/raspberry-whisper-implementation.git
+[submodule "old"]
+	path = old
+	url = https://github.com/shincakes/raspberry-whisper-implementation.git
+[submodule "whispercpp"]
+	path = whispercpp
+	url = https://github.com/shincakes/raspberry-whisper-implementation.git

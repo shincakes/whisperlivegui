@@ -1,0 +1,1095 @@
+[6770:6837:0409/225910.351000:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[6770:6837:0409/225910.352032:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[6770:6837:0409/225910.352202:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[6714:6714:0409/225932.536245:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x2c00071140 destroyed while proxies still attached:
+
+[6714:6714:0409/225932.536407:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#46 still attached
+
+[7298:7363:0409/230040.392912:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[7298:7363:0409/230040.393283:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[7298:7363:0409/230040.393818:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[7242:7242:0409/230115.762051:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x1c00021380 destroyed while proxies still attached:
+
+[7242:7242:0409/230115.762260:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#44 still attached
+
+[1567:1641:0409/230227.282343:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1567:1641:0409/230227.572234:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1567:1641:0409/230227.573528:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[1514:1514:0409/230851.357476:ERROR:network_service_instance_impl.cc(613)] Network service crashed, restarting service.
+Opening in existing browser session.
+[1567:1641:0409/231020.154323:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[1567:1641:0409/231020.189117:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1567:1641:0409/231021.213757:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1567:1641:0409/231026.237642:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1567:1641:0409/231056.257055:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1542:1616:0409/231237.002036:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1542:1616:0409/231237.205866:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1542:1616:0409/231237.208141:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[1489:1489:0409/231522.828329:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x1c000c1300 destroyed while proxies still attached:
+
+[1489:1489:0409/231522.828508:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#37 still attached
+
+[3183:3251:0409/231909.756901:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3183:3251:0409/231909.757136:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3183:3251:0409/231909.757454:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[3128:3128:0409/232008.686073:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x44001b10c0 destroyed while proxies still attached:
+
+[3128:3128:0409/232008.686230:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#46 still attached
+
+[3483:3547:0409/232124.182987:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3483:3547:0409/232124.183970:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3483:3547:0409/232124.184202:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[3427:3427:0409/232341.369865:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x4400011140 destroyed while proxies still attached:
+
+[3427:3427:0409/232341.370098:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#46 still attached
+
+[3837:3901:0409/232415.988091:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3837:3901:0409/232415.988456:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3837:3901:0409/232415.988809:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[3780:3780:0409/232612.163921:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x4c08a61100 destroyed while proxies still attached:
+
+[3780:3780:0409/232612.164215:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#46 still attached
+
+[4177:4242:0409/232647.557322:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[4177:4242:0409/232647.557661:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[4177:4242:0409/232647.558553:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[4121:4121:0409/232652.205868:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x3408a31080 destroyed while proxies still attached:
+
+[4121:4121:0409/232652.206504:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#44 still attached
+
+[4473:4539:0409/232722.566202:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[4473:4539:0409/232722.566491:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[4473:4539:0409/232722.566675:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[4418:4418:0409/232740.125092:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x4c00010d00 destroyed while proxies still attached:
+
+[4418:4418:0409/232740.126259:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#46 still attached
+
+[2581:2656:0409/232941.712344:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[2581:2656:0409/232942.053207:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[2581:2656:0409/232942.054830:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[1533:1606:0409/233252.013021:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1533:1606:0409/233252.278603:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1533:1606:0409/233252.279716:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[3276:3358:0410/003608.779267:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3276:3358:0410/003608.786145:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3276:3358:0410/003608.826404:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+Gdk-Message: 00:36:09.050: Error reading events from display: Broken pipe
+[4630:4707:0410/004355.149214:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[4630:4707:0410/004355.149526:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[4630:4707:0410/004355.149766:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+                                                                          [1594:1668:0411/004846.254650:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1594:1668:0411/004846.653742:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1594:1668:0411/004846.655723:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[1525:1621:0411/004948.639037:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1472:1472:0411/004948.792556:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1472:1472:0411/004948.795293:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1518:1593:0411/005026.897547:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1518:1593:0411/005027.201217:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1518:1593:0411/005027.203151:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[1522:1596:0411/005147.008697:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1522:1596:0411/005147.348734:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1522:1596:0411/005147.350162:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+[1518:1592:0411/005749.848910:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1518:1592:0411/005750.083432:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1518:1592:0411/005750.084891:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[1578:1653:0411/124932.281998:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1578:1653:0411/124932.626102:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1578:1653:0411/124932.627698:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[1593:1666:0411/125513.379754:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1593:1666:0411/125513.708053:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1593:1666:0411/125513.709738:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[1532:1532:0411/125537.808843:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1755:1830:0411/125917.082641:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1755:1830:0411/125917.300254:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1755:1830:0411/125917.302469:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1702:1702:0411/130417.454900:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1547:1624:0411/130457.041970:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1547:1624:0411/130457.043507:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1547:1624:0411/130457.145080:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+                                                                                                   [1530:1603:0411/130757.934872:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1530:1603:0411/130758.298480:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1530:1603:0411/130758.300047:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+                                                                                                                                                                                                      [1759:1833:0411/131100.706543:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1759:1833:0411/131101.005978:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1759:1833:0411/131101.007766:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   [1552:1560:0411/131158.901125:ERROR:simple_file_enumerator.cc(58)] Could not get file info for /home/admin/.cache/chromium/Default/Cache/Cache_Data/todelete_f1f90f6f8966338e_0_1
+[1547:1622:0411/131159.160259:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1547:1622:0411/131159.482802:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1547:1622:0411/131159.483068:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[1546:1621:0411/131539.845363:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1546:1621:0411/131540.218856:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1546:1621:0411/131540.220488:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[1493:1493:0411/133001.675192:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1493:1493:0411/133001.680053:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1556:1630:0411/133039.140397:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1556:1630:0411/133039.389135:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1556:1630:0411/133039.392652:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[2695:2772:0422/150634.084891:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[2695:2772:0422/150634.506804:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[2695:2772:0422/150634.507592:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 3: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+Gdk-Message: 15:10:10.290: Error reading events from display: Broken pipe
+[1522:1597:0422/151111.418724:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1522:1597:0422/151111.831415:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1522:1597:0422/151111.833410:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 10: Invalid argument
+close object 4: Invalid argument
+close object 11: Invalid argument
+close object 12: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[1470:1470:0422/151424.155292:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+./browser_start.sh: line 14: nc: command not found
+[3960:4030:0422/154433.364866:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3960:4030:0422/154433.365248:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3960:4030:0422/154433.365558:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+Cannot open display.
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 1: Invalid argument
+close object 5: Invalid argument
+close object 10: Invalid argument
+close object 1: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 1: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 5: Invalid argument
+close object 7: Invalid argument
+close object 10: Invalid argument
+[3960:4030:0422/155028.397908:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3902:3934:0422/155028.827891:ERROR:print_backend_cups.cc(216)] CUPS: Error getting default printer: No destinations added.
+[3902:3902:0422/155028.828380:ERROR:device_event_log_impl.cc(201)] [15:50:28.827] Printer: local_printer_handler_default.cc:154 Failure getting default printer name, result: kFailed
+Warning: disabling flag --expose_wasm due to conflicting flags
+[3960:4030:0422/155029.376637:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3960:4030:0422/155029.402193:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 10: Invalid argument
+close object 1: Invalid argument
+close object 11: Invalid argument
+close object 12: Invalid argument
+close object 13: Invalid argument
+close object 14: Invalid argument
+close object 15: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+Gdk-Message: 15:50:45.697: Error reading events from display: Broken pipe
+[1515:1590:0422/155138.478025:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1515:1590:0422/155138.817790:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1515:1590:0422/155138.820744:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+Cannot get client list properties. 
+(_NET_CLIENT_LIST or _WIN_CLIENT_LIST)
+[1462:1462:0422/155140.924593:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155140.927481:ERROR:network_service_instance_impl.cc(613)] Network service crashed, restarting service.
+[1462:1462:0422/155140.938151:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155140.944317:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155140.945322:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155140.986689:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155140.989560:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155140.991356:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155140.994687:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155140.996206:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155140.997825:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155140.999639:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155141.000736:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155141.001959:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155141.001993:FATAL:gpu_data_manager_impl_private.cc(423)] GPU process isn't usable. Goodbye.
+[0422/155141.013070:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[1516:1590:0422/155936.622581:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1516:1590:0422/155936.881920:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1516:1590:0422/155936.883592:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+Cannot get client list properties. 
+(_NET_CLIENT_LIST or _WIN_CLIENT_LIST)
+[1462:1462:0422/155938.959297:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155938.960597:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155938.962294:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155938.964475:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155938.967277:ERROR:network_service_instance_impl.cc(613)] Network service crashed, restarting service.
+[1462:1462:0422/155938.981344:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[1462:1462:0422/155938.995620:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.021464:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.027268:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.032306:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.033555:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.036397:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.038195:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.039651:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.041611:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[1462:1462:0422/155939.041637:FATAL:gpu_data_manager_impl_private.cc(423)] GPU process isn't usable. Goodbye.
+[0422/155939.049751:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[2573:2650:0422/160620.674915:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[2573:2650:0422/160620.685921:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[2573:2650:0422/160620.743435:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+[2518:2518:0422/160621.468104:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[2518:2518:0422/160621.475376:ERROR:network_service_instance_impl.cc(613)] Network service crashed, restarting service.
+[2518:2518:0422/160621.496438:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[2518:2518:0422/160621.506726:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[2518:2518:0422/160621.507643:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[2518:2518:0422/160621.509341:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+[2518:2518:0422/160621.547714:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[2518:2518:0422/160621.549866:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[2518:2518:0422/160621.551139:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[2518:2518:0422/160621.554803:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[2518:2518:0422/160621.560211:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[2518:2518:0422/160621.562624:ERROR:gpu_process_host.cc(976)] GPU process launch failed: error_code=1002
+[2518:2518:0422/160621.581827:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x44000c1300 destroyed while proxies still attached:
+
+[2518:2518:0422/160621.581962:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#48 still attached
+
+[5641:5703:0422/161344.733723:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[5641:5703:0422/161344.734090:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[5641:5703:0422/161344.734194:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[5584:5584:0422/161416.713515:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x1c000413c0 destroyed while proxies still attached:
+
+[5584:5584:0422/161416.713649:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#46 still attached
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [3107:3112:0422/161727.769943:ERROR:simple_file_enumerator.cc(58)] Could not get file info for /home/admin/.cache/chromium/Default/Cache/Cache_Data/todelete_f1f90f6f8966338e_0_1
+[3102:3178:0422/161728.557266:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3102:3178:0422/161728.557493:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3102:3178:0422/161728.575792:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 2: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 2: Invalid argument
+close object 5: Invalid argument
+close object 10: Invalid argument
+close object 2: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 2: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 5: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 4: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+[3102:3178:0422/161830.022325:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3049:3079:0422/161830.341466:ERROR:print_backend_cups.cc(216)] CUPS: Error getting default printer: No destinations added.
+[3049:3049:0422/161830.341863:ERROR:device_event_log_impl.cc(201)] [16:18:30.341] Printer: local_printer_handler_default.cc:154 Failure getting default printer name, result: kFailed
+close object 4: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+Warning: disabling flag --expose_wasm due to conflicting flags
+[3102:3178:0422/161831.100741:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3102:3178:0422/161831.121685:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3049:3049:0422/161832.728457:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x24000c1300 destroyed while proxies still attached:
+
+[3049:3049:0422/161832.728607:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#44 still attached
+
+[7234:7305:0422/164547.085488:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[7234:7305:0422/164547.085891:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[7234:7305:0422/164547.086380:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[3110:3185:0422/170036.477499:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3110:3185:0422/170036.483709:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[3110:3185:0422/170036.496340:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+Gdk-Message: 17:00:36.847: Error reading events from display: Broken pipe
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [1715:1715:0422/170138.013889:ERROR:browser_main_loop.cc(279)] Gdk: gdk_monitor_get_scale_factor: assertion 'GDK_IS_MONITOR (monitor)' failed
+[1715:1715:0422/170138.015522:ERROR:browser_main_loop.cc(279)] Gdk: gdk_monitor_get_workarea: assertion 'GDK_IS_MONITOR (monitor)' failed
+[1715:1715:0422/170139.234659:ERROR:browser_main_loop.cc(279)] Gdk: gdk_monitor_get_scale_factor: assertion 'GDK_IS_MONITOR (monitor)' failed
+[1774:1780:0422/170139.850330:ERROR:simple_file_enumerator.cc(58)] Could not get file info for /home/admin/.cache/chromium/Default/Cache/Cache_Data/todelete_f1f90f6f8966338e_0_1
+[1769:1850:0422/170141.409081:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1769:1850:0422/170141.409496:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1769:1850:0422/170141.427415:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+[2391:2470:0422/170239.976345:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[2391:2470:0422/170239.979050:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[2391:2470:0422/170240.021191:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[1978:2056:0422/170240.608198:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1978:2056:0422/170240.612410:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1978:2056:0422/170240.622821:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1573:1650:0422/170339.926965:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1573:1650:0422/170339.933120:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1573:1650:0422/170339.970707:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+Gdk-Message: 17:03:40.230: Error reading events from display: Broken pipe
+[1772:1848:0422/170540.046141:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1772:1848:0422/170540.052094:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1772:1848:0422/170540.089551:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+Gdk-Message: 17:05:40.323: Error reading events from display: Broken pipe
+[2637:2727:0422/170916.282942:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[2637:2727:0422/170916.283798:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[2637:2727:0422/170916.284402:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1596:1694:0422/171344.121440:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1596:1694:0422/171344.130031:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1596:1694:0422/171344.142685:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+Gdk-Message: 17:13:44.322: Error reading events from display: Connection reset by peer
+[1531:1606:0422/172146.266214:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1531:1606:0422/172146.507631:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1531:1606:0422/172146.509628:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[1607:1689:0422/172249.003131:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1607:1689:0422/172249.007671:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1607:1689:0422/172249.025786:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+Gdk-Message: 17:22:49.372: Error reading events from display: Connection reset by peer
+[1538:1614:0422/172346.944057:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1538:1614:0422/172347.168243:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1538:1614:0422/172347.171556:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 1: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 10: Invalid argument
+close object 5: Invalid argument
+close object 11: Invalid argument
+close object 12: Invalid argument
+[1538:1614:0422/172442.053883:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 5: Invalid argument
+close object 6: Invalid argument
+close object 7: Invalid argument
+[1538:1614:0422/172447.110193:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 1: Invalid argument
+close object 9: Invalid argument
+close object 10: Invalid argument
+close object 11: Invalid argument
+close object 12: Invalid argument
+close object 13: Invalid argument
+close object 8: Invalid argument
+close object 14: Invalid argument
+close object 15: Invalid argument
+close object 16: Invalid argument
+close object 17: Invalid argument
+close object 18: Invalid argument
+close object 19: Invalid argument
+close object 20: Invalid argument
+close object 21: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 3: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 3: Invalid argument
+close object 9: Invalid argument
+close object 10: Invalid argument
+close object 11: Invalid argument
+close object 12: Invalid argument
+close object 13: Invalid argument
+close object 8: Invalid argument
+close object 14: Invalid argument
+close object 15: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 10: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 1: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 3: Invalid argument
+close object 8: Invalid argument
+close object 9: Invalid argument
+close object 10: Invalid argument
+close object 11: Invalid argument
+close object 12: Invalid argument
+close object 3: Invalid argument
+close object 8: Invalid argument
+close object 13: Invalid argument
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 4: Invalid argument
+[1481:1510:0422/173351.215662:ERROR:command_storage_backend.cc(225)] Commands successfully read before error: 59, bytes successfully read from file before error: 32768
+[1534:1609:0422/173352.088055:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+[1534:1609:0422/173352.334449:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1534:1609:0422/173352.335858:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+[1587:1616:0425/050902.113145:ERROR:command_storage_backend.cc(225)] Commands successfully read before error: 59, bytes successfully read from file before error: 32768
+[1640:1729:0425/050903.487919:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1640:1729:0425/050903.488163:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1640:1729:0425/050903.513275:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+close object 1: Invalid argument
+close object 2: Invalid argument
+close object 3: Invalid argument
+close object 2: Invalid argument
+close object 4: Invalid argument
+close object 5: Invalid argument
+[1640:1729:0425/052243.964443:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1640:1729:0425/052245.460063:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1587:1587:0425/052245.681214:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+[1640:1729:0425/052246.546570:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+[1640:1729:0425/052248.808631:ERROR:v4l2_utils.cc(584)] Could not open /dev/video10: No such file or directory (2)
+libpng warning: iCCP: known incorrect sRGB profile
+[1587:1621:0425/052255.361927:ERROR:cast_crl.cc(448)] CRL - Verification failed.
+[1587:1587:0425/052432.372855:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x1c000c0e40 destroyed while proxies still attached:
+
+[1587:1587:0425/052432.373093:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#30 still attached
+
